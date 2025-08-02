@@ -92,12 +92,15 @@ AI_Resume_Analyzer/
 
 ### Landing Page  
 > Modern black & white hero page with a **Start Now** CTA.
+> <img width="1920" height="1032" alt="landing1" src="https://github.com/user-attachments/assets/45fea568-531e-4327-909a-54010db4a8c0" />
 
 ### Upload Page  
 > Drag & Drop or click to upload your PDF resume.
+> <img width="1920" height="1032" alt="upload1" src="https://github.com/user-attachments/assets/fa2d53a4-121b-4894-b80d-7f4764eab7dd" />
 
 ### Dashboard  
 > Extracted resume text with **highlighted keywords** and **AI job recommendations**.
+> <img width="1920" height="1032" alt="dashboard1" src="https://github.com/user-attachments/assets/efdbcabc-647e-4001-baa5-d1227e527c1d" />
 
 ---
 
