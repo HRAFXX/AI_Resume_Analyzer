@@ -41,7 +41,7 @@ An **AI-powered Resume Analyzer** built with **Flask, Python, and Machine Learni
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/HRAFXX/AI-Resume-Analyzer.git
+git clone https://github.com/HRAFXX/AI_Resume_Analyzer.git
 cd AI-Resume-Analyzer
 ```
 
